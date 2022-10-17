@@ -1,5 +1,6 @@
 # Backend
 /backend/venv
+/backend/media
 
 **/__pycache__
 *__init__.py
